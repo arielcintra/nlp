@@ -8,7 +8,7 @@ Projeto final para a cadeira de Processamento de Linguagem Natural do curso de P
 
 # Link para os códigos
 - Dataset: [Amazon Sales Dataset](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset/data)
-- SVM + Bow + Embeddings: https://colab.research.google.com/drive/180bCv5yBzATw_F-gg4Ks1PeEsSP9Twy9?usp=sharing
+- SVM + Bow + TF-IDF: https://colab.research.google.com/drive/180bCv5yBzATw_F-gg4Ks1PeEsSP9Twy9?usp=sharing
 - BERT: https://colab.research.google.com/drive/1Oq9UBDdSIvz9Lbw5x7jLgB-7nE43W-2a?usp=sharing
 
 
